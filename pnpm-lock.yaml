@@ -17,6 +17,9 @@ importers:
       '@mdxeditor/editor':
         specifier: ^3.54.0
         version: 3.54.0(@codemirror/language@6.12.3)(@lezer/highlight@1.2.3)(@types/react-dom@19.1.2(@types/react@19.1.1))(@types/react@19.1.1)(react-dom@19.2.5(react@19.2.5))(react@19.2.5)(yjs@13.6.29)
+      '@radix-ui/colors':
+        specifier: ^3.0.0
+        version: 3.0.0
       '@radix-ui/react-alert-dialog':
         specifier: ^1.1.15
         version: 1.1.15(@types/react-dom@19.1.2(@types/react@19.1.1))(@types/react@19.1.1)(react-dom@19.2.5(react@19.2.5))(react@19.2.5)
